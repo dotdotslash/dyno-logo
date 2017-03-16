@@ -1,3 +1,1 @@
-# Howard Hughes Dynamic H
-
-Color capture and modify Logo
+# Dynamic SVG color from image or video
